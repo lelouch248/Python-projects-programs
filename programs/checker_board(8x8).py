@@ -1,5 +1,3 @@
-# 10 checker Board
-
 import numpy as np
 import cv2
 
